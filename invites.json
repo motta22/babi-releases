@@ -1,0 +1,21 @@
+{
+  "_what": [
+    "B.A.B.I invitations, read by the setup wizard from",
+    "  https://raw.githubusercontent.com/motta22/babi-releases/main/invites.json",
+    "Only scrypt hashes of the codes are here. The codes were handed out one by one and are stored nowhere.",
+    "open: true lets anyone through setup. Edit with release/invite.mjs in the private repo, not by hand."
+  ],
+  "v": 1,
+  "kdf": "scrypt",
+  "N": 16384,
+  "r": 8,
+  "p": 1,
+  "salt": "f779f393378424161b6b682c81fa4559",
+  "open": false,
+  "codes": [
+    {
+      "id": "4p3b",
+      "hash": "a43f166cd4e30c74808088bbba7419314d552b6635241f2cd5dbc8e5bec055da"
+    }
+  ]
+}
