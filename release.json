@@ -63,15 +63,15 @@
     "               installed app downloads only the installer with this sha512; a GitHub release that differs is",
     "               refused. So: build and upload first, sign second, publish this file last."
   ],
-  "latest": "1.7.1",
+  "latest": "1.8.0",
   "minSupported": "1.7.0",
   "minHub": "1.0.0",
   "minClient": "0.1.0",
-  "pageVersion": "1.7.0",
+  "pageVersion": "1.8.0",
   "level": "optional",
-  "message": "Pick your assistant's voice, and a clearer first screen.",
-  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.7.1",
-  "sha512": "QlT4Nbpv+tGBjacWySs8M90U5kElfABtqkZobPiXaC2HS2VPLkK5I94qlJvzumRlfi8sOsL0PgZBA3zJiz40DQ==",
+  "message": "A settings gear for the voice and volume, track any folder you like, and your assistant now recovers by itself if something crashes.",
+  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.8.0",
+  "sha512": "a7CZIUqaKORKW6OyfwQRG1pf9775tdQt57sHDrOaNWGNjjvkF13pxGv1bsxVMFH6SNGQ6auv/iBa+6zUhwNFWw==",
   "blockBelow": null,
-  "signature": "ePoMBexc9SW4RRT+eFNJL65KVRqrzGSKfMYKPwt4fMO8G2aHkMGoplLCeR/+Vz9964He+gNNMBY7b+f/SGFYAQ=="
+  "signature": "6of2m/Gzyyp0h299DPhFVfgxM3E9Ql6tBWnaalUNZyGzIHFx78MURzN+Ff+gf0snK5nIv8ihJnLWOLmBPdVIDg=="
 }
