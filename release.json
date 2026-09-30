@@ -63,15 +63,15 @@
     "               installed app downloads only the installer with this sha512; a GitHub release that differs is",
     "               refused. So: build and upload first, sign second, publish this file last."
   ],
-  "latest": "1.8.0",
+  "latest": "1.9.0",
   "minSupported": "1.7.0",
   "minHub": "1.0.0",
   "minClient": "0.1.0",
-  "pageVersion": "1.8.0",
+  "pageVersion": "1.9.0",
   "level": "optional",
-  "message": "A settings gear for the voice and volume, track any folder you like, and your assistant now recovers by itself if something crashes.",
-  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.8.0",
-  "sha512": "a7CZIUqaKORKW6OyfwQRG1pf9775tdQt57sHDrOaNWGNjjvkF13pxGv1bsxVMFH6SNGQ6auv/iBa+6zUhwNFWw==",
+  "message": "Your assistant can now update itself and its Command Center with one button, muting really closes the microphone, and many screens got smoother.",
+  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.9.0",
   "blockBelow": null,
-  "signature": "6of2m/Gzyyp0h299DPhFVfgxM3E9Ql6tBWnaalUNZyGzIHFx78MURzN+Ff+gf0snK5nIv8ihJnLWOLmBPdVIDg=="
+  "sha512": "9knyLfl9ZhOGk+k12rfi3Zf6AyAEx+6OJBkY93kMaPM0IbRHvaBzB1IuNGvKqm+HpJB7zToc+4UFGmAqR509Eg==",
+  "signature": "943lWx8PTCZ2nwvBRZUrJ/+9dy17etQC/oq8xOqHkBzyeJ/ZCAyANoNzTdjNxGYyyy6JFH1EDjf/jEmMfX76CQ=="
 }
