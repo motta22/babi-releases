@@ -63,15 +63,15 @@
     "               installed app downloads only the installer with this sha512; a GitHub release that differs is",
     "               refused. So: build and upload first, sign second, publish this file last."
   ],
-  "latest": "1.10.0",
+  "latest": "1.10.1",
   "minSupported": "1.7.0",
   "minHub": "1.0.0",
   "minClient": "0.1.0",
-  "pageVersion": "1.10.0",
-  "level": "optional",
-  "message": "A calmer, clearer assistant with a new look: tidy answer cards, Modes for your profession and your games, a Streamer Mode, iCloud for iPhone users, and a big red STOP whenever it works on your PC.",
-  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.10.0",
+  "pageVersion": "1.10.1",
+  "level": "required",
+  "message": "Your assistant’s offline ears now start by themselves on every PC, the setup says why when something is missing, and updates install themselves while your computer is idle.",
+  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.10.1",
   "blockBelow": null,
-  "sha512": "Ay6+bE6Vp5/4wDIJbNxcu88Q/jeiynqKpI2QjZ75pxy7G741aSZbPJk0C8Y+6aHxZiBXvGM7dIpIRPp+p6lFOw==",
-  "signature": "oO4AqkkhSm/P1CayppzRehcPYH7uLvoZvvk6V6Mddf5NrQYFhDTe3G3Xwv4ubIEbpddCmWIYqoeXro91NU3bDA=="
+  "sha512": "ICN7/iZF1DTMlyKIsadC5DOGKAG4/hT66rRgMN9npyowkDy7YyhbPSQqO2HJI74naBkRLziexceIHx6ten2FOQ==",
+  "signature": "/Y1jbJyU0gaw9k9CDwuWhmfKdB1YsLxIPYPCXXD5oMHEVif+fm4X2ghPozJru2Wt9lvdGxwegNKkPwdJw8wwAA=="
 }
