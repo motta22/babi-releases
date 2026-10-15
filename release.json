@@ -63,15 +63,15 @@
     "               installed app downloads only the installer with this sha512; a GitHub release that differs is",
     "               refused. So: build and upload first, sign second, publish this file last."
   ],
-  "latest": "1.10.1",
+  "latest": "1.10.2",
   "minSupported": "1.7.0",
   "minHub": "1.0.0",
   "minClient": "0.1.0",
-  "pageVersion": "1.10.1",
+  "pageVersion": "1.10.2",
   "level": "required",
-  "message": "Your assistant’s offline ears now start by themselves on every PC, the setup says why when something is missing, and updates install themselves while your computer is idle.",
-  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.10.1",
+  "message": "Your assistant now uses the name you gave it everywhere, and the setup shows a progress bar and says why when installing the voice or the ears fails.",
+  "notesUrl": "https://github.com/motta22/babi-releases/releases/tag/v1.10.2",
   "blockBelow": null,
-  "sha512": "ICN7/iZF1DTMlyKIsadC5DOGKAG4/hT66rRgMN9npyowkDy7YyhbPSQqO2HJI74naBkRLziexceIHx6ten2FOQ==",
-  "signature": "/Y1jbJyU0gaw9k9CDwuWhmfKdB1YsLxIPYPCXXD5oMHEVif+fm4X2ghPozJru2Wt9lvdGxwegNKkPwdJw8wwAA=="
+  "sha512": "Rv3fAQIuxkvYBRlmBQtlqB/Km3AoxgDbqnmD6g+4AzDNSQRrFbu5b+LL0FBn7yvYyXS8Gltmfh6vmOdMiYYIPQ==",
+  "signature": "Qe/pTYwbQ/kUXip5gxKGbQIlzTQ3V7DBuSHCH33niaJsykW4bu5UjbKtbTHq3SY4IX+XlqU/c9ZkVentbT5ICA=="
 }
